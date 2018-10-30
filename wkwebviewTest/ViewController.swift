@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var btnLeft: UIButton!
     @IBOutlet weak var btnRight: UIButton!
     
-    var targetUrl = "https://www.google.co.kr"
+    var targetUrl = "https://www.inswave.com"
     
     override func viewDidLoad() {
         super.viewDidLoad()
